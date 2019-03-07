@@ -1,4 +1,5 @@
 <img src="./sockeye.jpg" title="Sockeye Salmon" padding="20px" width="120" height="120" align="left"/>
+
 # Sockeye
 
 Reconnecting Websocket Client Library for Clojure
